@@ -1,0 +1,73 @@
+Platforms_to_host_galleries_and_sources:
+  Historical:
+    - https://cdnlarge.tableausoftware.com/sites/default/files/pages/the_5_most_influential_data_visualizations_of_all_time_0.pdf
+
+  Data_Art:
+    Instructional:
+      - https://www.visualcinnamon.com/
+    Inspiration:
+      - https://nrennie.rbind.io/data-art/
+    In_Person:
+      - https://www.artechouse.com/
+      - https://dataland.art
+
+  Infographics:
+    Instructional:
+      - https://amyballiett.com/
+    Inspiration:
+      - https://www.datasketch.es/
+      - https://www.visualcapitalist.com/
+
+  Dashboards:
+    Instructional:
+      - https://stephanieevergreen.com/
+    Inspiration:
+      - https://opendata.dc.gov/pages/dashboards
+      - https://www.fairfaxcounty.gov/demographics/data-visualization-gallery
+      - https://www.census.gov/library/visualizations.html
+      - https://community.oracle.com/products/oracleanalytics/categories/analytics-data-visualization-gallery
+      - https://lookerstudio.google.com/gallery?category=community
+      - https://vallandingham.me/scroll_talk/examples/
+      - https://www.vev.design/blog/interactive-data-visualization-examples/
+      - https://svs.gsfc.nasa.gov/5320/
+      - https://www.ag-grid.com/charts/?gad_source=1&gad_campaignid=20804289753&gbraid=0AAAAADQMoYAqXOQsnovCbO1p_udobV_ph&gclid=EAIaIQobChMIjfCi_vn-jQMV-DQIBR0Bzxh8EAMYAyAAEgLXtfD_BwE
+      - https://datavizproject.com/
+      - https://www.dataviz-inspiration.com/
+
+By_Tool:
+  R:
+    - https://r-graph-gallery.com/
+    - https://rkabacoff.github.io/datavis/
+  Tableau:
+    - https://www.tableau.com/viz-gallery
+    - https://www.tableau.com/data-insights/dashboard-showcase
+  Python:
+    - https://python-graph-gallery.com/
+    - https://matplotlib.org/stable/plot_types/index.html
+  MicroStrategy:
+    - https://community.microstrategy.com/s/gallery?language=en_US
+  esri:
+    - https://community.esri.com/t5/arcgis-dashboards-blog/dashboards-that-pop-maps/ba-p/1235509
+    - https://community.esri.com/t5/arcgis-dashboards-blog/dashboards-that-pop-html/ba-p/1237026
+
+By_Profession:
+  Economics:
+    - https://blogs.worldbank.org/en/impactevaluations/new-visual-libraries-r-and-stata-users
+  Environment:
+    - https://echo.epa.gov/trends/data-viz
+  Health:
+    - https://www.healthdata.org/interactive-data-visuals
+  Stocks:
+    - https://reference.wolfram.com/language/guide/FinancialVisualization.html
+
+Highlights:
+  Marvel_vs_DC:
+    - https://lookerstudio.google.com/reporting/0B-rCydtEraEOWFhtSmMyVXFpd0U/page/bEAG
+  Games:
+    - https://flowingdata.com/tag/game/
+    - https://visualitics.it/gamification-data-visualization/?lang=en
+    - https://engaging-data.com/snake-globe/
+    - https://www.nytimes.com/interactive/2024/us/politics/electoral-college-270-harris-trump.html?unlocked_article_code=1.XE4.AZc8.CZ-kqR3ZXihk&smid=url-share
+    - https://datalemur.com/blog/data-science-games
+  DC:
+    - https://dataviz1.dc.gov/t/OCTO/views/DCFASTERDASHBOARD/DayandTime?%3AshowAppBanner=false&%3Adisplay_count=n&%3AshowVizHome=n&%3Aorigin=viz_share_link&%3Aembed=yes&%3Atoolbar=no
