@@ -2,7 +2,7 @@
 
 A curated list of data visualization galleries for inspiration, organized by category, tool, and domain. This repo is designed to be a launchpad — not a codebase — so you can explore visual creativity without hunting around the web.
 
-Please see the [`data-viz-gallery.yaml`](./data-viz-gallery.yaml) file for the full list of links.
+Please see the [`viz-inspiration.yaml`](./viz-inspiration.yaml) file for the full list of links.
 
 ## 🤝 Contributions Welcome
 
