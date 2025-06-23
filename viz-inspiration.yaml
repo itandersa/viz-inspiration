@@ -3,7 +3,7 @@ Platforms_to_host_galleries_and_sources:
     - https://cdnlarge.tableausoftware.com/sites/default/files/pages/the_5_most_influential_data_visualizations_of_all_time_0.pdf
 
   Data_Art:
-    Instructional:
+    Educational:
       - https://www.visualcinnamon.com/
     Inspiration:
       - https://nrennie.rbind.io/data-art/
@@ -12,14 +12,14 @@ Platforms_to_host_galleries_and_sources:
       - https://dataland.art
 
   Infographics:
-    Instructional:
+    Educational:
       - https://amyballiett.com/
     Inspiration:
       - https://www.datasketch.es/
       - https://www.visualcapitalist.com/
 
   Dashboards:
-    Instructional:
+    Educational:
       - https://stephanieevergreen.com/
     Inspiration:
       - https://opendata.dc.gov/pages/dashboards
