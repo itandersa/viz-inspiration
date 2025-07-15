@@ -28,6 +28,7 @@ Platforms_to_host_galleries_and_sources:
     Educational:
       - https://stephanieevergreen.com/
     Inspiration:
+      - https://www.dc2.org/gallery
       - https://opendata.dc.gov/pages/dashboards
       - https://www.fairfaxcounty.gov/demographics/data-visualization-gallery
       - https://www.census.gov/library/visualizations.html
@@ -50,6 +51,8 @@ By_Tool:
   Python:
     - https://python-graph-gallery.com/
     - https://matplotlib.org/stable/plot_types/index.html
+  Power BI:
+    - https://community.fabric.microsoft.com/t5/Galleries/ct-p/PBI_Comm_Galleries
   MicroStrategy:
     - https://community.microstrategy.com/s/gallery?language=en_US
   esri:
